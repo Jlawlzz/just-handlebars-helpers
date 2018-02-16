@@ -6,7 +6,6 @@ import * as html from './helpers/html';
 import * as math from './helpers/math';
 import * as strings from './helpers/strings';
 import * as datetime from './helpers/datetime';
-import * as formatters from './helpers/formatters';
 import * as conditionals from './helpers/conditionals';
 
 class H {
